@@ -1,6 +1,4 @@
-### Hi there, I'm Cristian 👋
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## Hi there, I'm Cristian 👋
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
